@@ -1,0 +1,10 @@
+^C:\LABS\OUT\BUILD\PREDINSTALL1\CMAKEFILES\910A5271C2CFA0DBB1B68B04290C1A5E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/labs -BC:/labs/out/build/predinstall1 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/labs/out/build/predinstall1/lab1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
