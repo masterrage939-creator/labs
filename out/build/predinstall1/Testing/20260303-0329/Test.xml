@@ -2,34 +2,34 @@
 <Site BuildName="Win32-MSBuild"
 	BuildStamp="20260303-0329-Experimental"
 	Name="Tamir"
-	Generator="ctest-3.31.6-msvc6"
+	Generator="ctest-4.3.1-msvc1"
 	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe"
 	CompilerVersion="19.44.35215.0"
 	OSName="Windows"
 	Hostname="Tamir"
-	OSRelease=" Professional"
-	OSVersion=" (Build 26100)"
+	OSRelease="10.0.26100"
+	OSVersion="Windows 10"
 	OSPlatform="AMD64"
 	Is64Bits="1"
 	VendorString="AuthenticAMD"
 	VendorID="Advanced Micro Devices"
 	FamilyID="15"
 	ModelID="4"
-	ModelName="AMD Ryzen 5 7535HS with Radeon Graphics        "
+	ModelName="AMD Ryzen 5 7535HS with Radeon Graphics"
 	ProcessorCacheSize="64"
 	NumberOfLogicalCPU="12"
 	NumberOfPhysicalCPU="6"
-	TotalVirtualMemory="18555"
+	TotalVirtualMemory="8704"
 	TotalPhysicalMemory="15611"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="3293"
+	ProcessorClockFrequency="3301.000000"
 	>
 	<Testing>
-		<StartDateTime>Mar 03 12:29 [NON-UTF-8-BYTE-0xD2][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
-		<StartTestTime>1772515770</StartTestTime>
+		<StartDateTime>Nov 07 12:49 [NON-UTF-8-BYTE-0xD2][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1794030573</StartTestTime>
 		<TestList/>
-		<EndDateTime>Mar 03 12:29 [NON-UTF-8-BYTE-0xD2][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
-		<EndTestTime>1772515770</EndTestTime>
+		<EndDateTime>Nov 07 12:49 [NON-UTF-8-BYTE-0xD2][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1794030573</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

@@ -1,6 +1,6 @@
-^C:\LABS\CMAKELISTS.TXT
+^C:\LABS\LABS\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/labs -BC:/labs/out/build/predinstall1 --check-stamp-file C:/labs/out/build/predinstall1/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/labs/labs -BC:/labs/labs/out/build/predinstall1 --check-stamp-file C:/labs/labs/out/build/predinstall1/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
